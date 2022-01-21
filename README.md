@@ -5,7 +5,7 @@ I'm Urvashi Tomer, a computer science undergraduate ♌
 - 🔭 I’m currently working on **Web development**.
 - 🌱 I’m currently learning best practices for front-end development.
 - 👯 I’m looking to collaborate on front-end projects.
-- 🤔 I’m looking for help with website deployment.
+- 🤔 I’m looking for help with deployment.
 - 💬 Ask me about basics of C/C++
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/urvashi-tomer-8412931a1/)
 - 😄 Pronouns: _she/her_
