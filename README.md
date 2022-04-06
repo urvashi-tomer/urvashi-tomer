@@ -6,7 +6,7 @@ I'm Urvashi Tomer, a computer science undergraduate ♌
 - 🌱 I’m currently learning best practices for front-end development.
 - 👯 I’m looking to collaborate on front-end projects.
 - 🤔 I’m looking for help with web hosting.
-- 💬 Ask me about C/C++
+- 💬 Ask me about C/C++ (also, python)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/urvashi-tomer-8412931a1/)
 - 😄 Pronouns: 🦁/🔥
 > ⚡ Fun fact: Code and Chill ⌨️
