@@ -13,9 +13,10 @@ I'm Urvashi Tomer, a computer science undergraduate ♌
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/urvashi-tomer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/urvashi-tomer-8412931a1/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=urvashi-tomer&show_icons=true)  
+
 
 <!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=urvashi-tomer&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=urvashi-tomer)  
 -->
 
