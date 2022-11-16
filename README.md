@@ -3,9 +3,7 @@
 I'm Urvashi Tomer, a computer science undergraduate ♌
 
 - 🔭 I’m currently working on **Web development**.
-- 🌱 I’m currently learning best practices for front-end development.<!--
-- 👯 I’m looking to collaborate on front-end projects.
-- 🤔 I’m looking for help with web hosting.-->
+- 🌱 I’m currently learning best practices for front-end development.
 - 💬 Ask me about C/C++ (also, python)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/urvashi-tomer-8412931a1/)
 - 😄 Pronouns: 🦁/🔥
@@ -32,7 +30,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> ⚡ Fun fact: ...
+
+<!-- - 👯 I’m looking to collaborate on front-end projects. -->
+<!-- - 🤔 I’m looking for help with web hosting.-->
+
 -->
 
 
