@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi, I'm Urvashi
 
-I'm Urvashi Tomer, a computer science undergraduate ♌
-
-- 🔭 I’m currently working on **Web development**.
-- 🌱 I’m currently learning best practices for front-end development.
-- 💬 Ask me about C/C++ (also, python)
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/urvashi-tomer-8412931a1/)
+- 🚗 Android Developer | Building scalable HMI applications for next-gen EVs
+- ⚙️ Kotlin • MVVM • Room • Jetpack • XML • UI/UX
+- 💻 Contributor to Mahindra XEV 9e & BE 6 infotainment systems
+- 📍 Focused on clean architecture, responsive UIs & meaningful user experiences
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/urvashi-tomer-8412931a1/)
 - 😄 Pronouns: 🦁/🔥
 > ⚡ Fun fact: Code and Chill ⌨️
 
